@@ -1,17 +1,47 @@
-# Selam! Ben Ali Solmaz 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ali%20Solmaz&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u2pmTWUiEAVPP4Fxyo/giphy.gif">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Blockchain+Developer;IoT+Enthusiast;Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
-### 🎓 Hakkımda
-- 💻 **Sakarya Üniversitesi** Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim.
-- 🚀 **Blockchain** (özellikle Sui ve Move dili) üzerine projeler geliştiriyorum.
-- 🌐 **ASP.NET Core** ve **Web Programlama** ile ilgileniyorum.
-- 📡 **IoT** ve **Dijital Sinyal İşleme** konularında çalışmalar yapıyorum.
+---
 
-### 🛠️ Yeteneklerim
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### 🛰️ Terminal: Giriş Yapıldı
+* 🔭 **Eğitim:** Sakarya Üniversitesi'nde 3. Sınıf Bilgisayar Mühendisliği öğrencisiyim.
+* ⛓️ **Odak Noktası:** Şu sıralar **Sui Network** ve **Move** dili üzerinde merkeziyetsiz çözümler üretiyorum.
+* 💻 **Web:** **ASP.NET Core** mimarisiyle modern web uygulamaları geliştiriyorum.
+* ⚡ **Hobi/Araştırma:** **IoT**, Dijital Sinyal İşleme ve Büyük Veri teknolojileriyle ilgileniyorum.
 
-### 📊 GitHub İstatistiklerim
-![Ali'nin Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+---
+
+### 🛠️ Teknolojik Silahlarım
+
+| Kategori | Araçlar |
+| :--- | :--- |
+| **Blockchain** | ![Sui](https://img.shields.io/badge/Sui-Blue?style=flat-square&logo=sui&logoColor=white) ![Move](https://img.shields.io/badge/Move-Language-gray?style=flat-square) |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Hardware** | ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internet-of-things&logoColor=white) ![NodeMCU](https://img.shields.io/badge/NodeMCU-Ready-green?style=flat-square) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+
+---
+
+### 🚀 Öne Çıkan Görevler (Projeler)
+* **FitnessApp:** Web programlama dersi kapsamında geliştirdiğim kapsamlı fitness takip platformu.
+* **Sui Ticket Platform:** Sui blockchain ağı üzerinde çalışan akıllı bilet satış sistemi.
+* **Garanti BBVA Hackathon:** 2026 Şubat ayında katıldığım inovasyon maratonu.
+
+---
+
+### 📊 Sistem İstatistikleri
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
