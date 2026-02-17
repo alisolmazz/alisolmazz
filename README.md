@@ -21,9 +21,9 @@
 | Kategori | Araçlar |
 | :--- | :--- |
 | **Blockchain** | ![Sui](https://img.shields.io/badge/Sui-Blue?style=flat-square&logo=sui&logoColor=white) ![Move](https://img.shields.io/badge/Move-Language-gray?style=flat-square) |
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Hardware** | ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internet-of-things&logoColor=white) ![NodeMCU](https://img.shields.io/badge/NodeMCU-Ready-green?style=flat-square) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
