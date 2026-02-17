@@ -14,4 +14,4 @@
 ![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 📊 GitHub İstatistiklerim
-![Ali'nin Stats](https://github-readme-stats.vercel.app/api?username=alisolmazz&show_icons=true&theme=radical)
+![Ali'nin Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
